@@ -37,7 +37,7 @@ Módulo de Pagamento PagSeguro Plus Transparente, LightBox e Redirect para lojas
 - [Módulo Pagamento Pagseguro Plus - R$ 50,00 em Mercado Livre](https://produto.mercadolivre.com.br/MLB-1599301079-modulo-pagamento-pagseguro-plus-opencart-2x-3x-dev5-_JM)
 
 ##### Changelog:
-- [Registro de alterações Módulo Pagamento PagSeguro Plus](https://dev5.com.br/opencart/pagamentos/pagseguro#changelog)
+- [Registro de Alterações Módulo Pagamento PagSeguro Plus](https://dev5.com.br/opencart/pagamentos/pagseguro#changelog)
 
 ##### Nossos contatos:
 - [74 98117-4219](https://api.whatsapp.com/send?phone=5574981174219) (Telefone/Whatsapp)
