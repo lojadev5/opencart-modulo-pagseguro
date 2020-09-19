@@ -33,8 +33,7 @@ Módulo de Pagamento PagSeguro Plus Transparente, LightBox e Redirect para lojas
 - Código 100% original
 
 ##### Adquira sua licença:
-- [Módulo Pagseguro MercadoPago Plus - R$ 38,25 em dev5.com.br](https://dev5.com.br/opencart/pagamentos/pagseguro)
-- [Módulo Pagamento Pagseguro Plus - R$ 50,00 em Mercado Livre](https://produto.mercadolivre.com.br/MLB-1599301079-modulo-pagamento-pagseguro-plus-opencart-2x-3x-dev5-_JM)
+- [Módulo Pagseguro MercadoPago Plus - R$ 45,90 em dev5.com.br](https://dev5.com.br/opencart/pagamentos/pagseguro)
 
 ##### Changelog:
 - [Registro de Alterações Módulo Pagamento PagSeguro Plus](https://dev5.com.br/opencart/pagamentos/pagseguro#changelog)
